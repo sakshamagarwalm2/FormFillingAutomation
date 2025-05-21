@@ -1,0 +1,23 @@
+{
+  "campaign_name": "Summer Sale",
+  "network": "facebook+instagram",
+  "campaign_goal": "reach",
+  "target_device_type": "mobile",
+  "targeting_type": "location",
+  "account": "Horizon Media",
+  "iab_category": "IAB1-5 for Business",
+  "media_type": "image",
+  "pricing_type": "cpm",
+  "impression_count": 10000.0,
+  "advertiser_domain": "www.horizonmedia.com",
+  "budget": 5000.0,
+  "partner_campaign_id": "PART123",
+  "max_impressions_per_user_per_day": 3.0,
+  "deliver_to_completion": true,
+  "zip_code": "10001",
+  "dma": "New York",
+  "radius": 10.0,
+  "country": "USA",
+  "state": "NY",
+  "city": "New York City"
+}
