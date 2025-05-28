@@ -18,8 +18,10 @@ if "chat_history" not in st.session_state:
 groq_api_key = os.environ.get("GROQ_API_KEY")
 if not groq_api_key:
     groq_api_key = st.text_input("Enter your Groq API key:", type="password")
-    if groq_api_key:
-        os.environ["GROQ_API_KEY"] = groq_api_key
+    # if groq_api_key:
+    #     os.environ["GROQ_API_KEY"] = groq_api_key
+    if True:
+        os.environ["GROQ_API_KEY"] = "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"
     else:
         st.warning("Please enter your Groq API key to proceed.")
         st.stop()
