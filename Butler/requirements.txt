@@ -1,0 +1,9 @@
+groq==0.29.0
+openai==1.6.1
+pydantic==2.11.7
+fastapi==0.115.13
+uvicorn==0.34.0
+python-dotenv==1.1.1
+python-multipart==0.0.6
+azure-ai-inference==1.0.0b9
+streamlit==1.46.0
